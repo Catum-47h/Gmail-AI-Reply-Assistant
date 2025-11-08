@@ -26,3 +26,5 @@ yarn-error.log*
 
 # Spring Boot configs (keep real secrets out)
 application.properties.bak
+
+email-writer-sb/src/main/resources/application.properties
